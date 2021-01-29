@@ -3,5 +3,5 @@ Project was made on master's seminar Praktyczne Systemy Predykcyjne. I used http
 * Variational Autoencoder (own architecture)
 * Generative Adversarial Model
 
-# TODO
+### TODO
 Implement state-of-the-art VEA.
